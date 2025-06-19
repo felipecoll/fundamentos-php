@@ -1,6 +1,6 @@
 <?php 
     $course = "Curso profesional de PHP"
-    $archive = true
+    $archive = false
 ?>
 
 <!DOCTYPE html>
