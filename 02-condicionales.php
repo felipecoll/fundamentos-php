@@ -1,7 +1,7 @@
 <?php 
     $course = "Curso profesional de PHP"
     $archive = false
-    $_ENV['APP_ENV'] = 'production';
+    
 ?>
 
 <!DOCTYPE html>
